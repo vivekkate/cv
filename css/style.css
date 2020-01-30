@@ -1,0 +1,82 @@
+
+body{
+  margin: 0px;
+
+}
+
+
+h1{
+font-size:4rem;
+font-family: 'Dancing Script', cursive,sans-serif;
+color: #71c9ce;
+}
+
+.top{
+  text-align: center;
+
+  background-color:#cbf1f5;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.middle{
+  text-align: center;
+
+  padding-top: 200px;
+  padding-bottom: 200px;
+  background-color:#eeeeee;
+}
+
+p{
+  color: #40514e;
+  line-height: 2;
+  font-family: 'Noto Serif', serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  border-color: #393e46;
+  height: 0px;
+  width: 10%;
+  margin: 100px auto;
+}
+
+.bottom-cloud{
+position: absolute;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+.top-cloud{
+  position: relative;
+  margin-right: 400px;
+}
+
+
+
+h2{
+  font-weight: normal;
+  color: #71c9ce;
+  font-size: 2rem;
+  font-family: 'Noto Serif', serif;
+}
+
+.table{
+  margin-left: 550px;
+}
+.my-img {
+  width:25%;
+float:left;
+}
+.about-me{
+  width: 50%;
+  margin: 50px auto;
+}
+
+.contact{
+  width: 50%;
+  margin: 100px auto;
+}
